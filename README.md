@@ -1,6 +1,7 @@
 ## Hey there 👋
 
 I'm building agentic and open source tools to improve infra for developers.
+Check out astral below to deploy to AWS in one line of code.
 
 <!--
 **joelachance/joelachance** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
