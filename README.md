@@ -1,6 +1,6 @@
 ## Hey there 👋
 
-I'm building agentic and open source tools to improve infra for developers.
+I'm the founder @ Telepath, building self-healing intelligent monitoring for software developers.
 
 <!--
 **joelachance/joelachance** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
