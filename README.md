@@ -1,10 +1,8 @@
-## Hey there 👋
-
 Software Engineer building since 2015.
 I've worked for Fortune 500s and small startups.
 
-I maintain open source projects like Astral and contribute to others.
-I build MCP tools. [Telepath](https://telepath.sh)
+I maintain open source projects like Astral and have contributed to others, like Numpy.org.
+I'm building your favorite AI memory tool. [Satori](https://satori.sh)
 
 <!--
 **joelachance/joelachance** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
