@@ -1,3 +1,5 @@
+### joe_lachance 👾
+
 Software Engineer building since 2015.  
 I've worked for Fortune 500s and small startups.  
   
