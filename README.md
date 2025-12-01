@@ -4,7 +4,8 @@ Software Engineer building since 2015.
 I've worked for Fortune 500s and small startups.  
   
 I maintain open source projects like Astral and have contributed to others, like Numpy.org.  
-I'm building your favorite AI memory tool. [Satori](https://satori.sh)
+I'm building your favorite AI memory tool, [Satori](https://satori.sh).
+Add conversational memory or any data to create infinite context.
 
 <!--
 **joelachance/joelachance** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
