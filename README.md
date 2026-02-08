@@ -1,12 +1,11 @@
-### 👾 joe lachance
+### joe lachance
 
-Software Engineer building since 2015.  
-I've worked for Fortune 500s and small startups.  
+I'm building AI models that use 79.2% fewer tokens with higher accuracy and lower latency. [Satori](https://satori.sh).  
+currently building  at [founders inc](https://f.inc/).
+
 I maintain open source projects like Astral and have contributed to others, like Numpy.org.  
-  
-Currently building at Founders Inc.
-I'm building your favorite AI memory tool, [Satori](https://satori.sh).  
-Add conversational memory or any data to create infinite context.
+I've worked for Fortune 500s and small startups.  
+Software Engineer since 2015.  
 
 <!--
 **joelachance/joelachance** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
