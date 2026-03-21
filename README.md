@@ -1,11 +1,11 @@
 ### joe lachance
 
-I'm building AI models that use 79.2% fewer tokens with higher accuracy and lower latency. [Satori](https://satori.sh).  
-currently building  at [founders inc](https://f.inc/).
+I'm building Developer Tools for AI. [Satori](https://satori.sh).
+previously at [founders inc](https://f.inc/).
 
-I've contributed to open source projects like [XMCP](https://xmcp.dev/) and  [numpy.org](https://numpy.org/).  
+I've contributed to open source projects like [XMCP](https://xmcp.dev/) and [numpy.org](https://numpy.org/).  
 I've worked for Fortune 500s and small startups.  
-SWE since 2015.  
+SWE since 2015.
 
 <!--
 **joelachance/joelachance** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
