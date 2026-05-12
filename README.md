@@ -1,8 +1,9 @@
 ### joe lachance
 
 I'm building Developer Tools for AI. [Satori](https://satori.sh).
-previously at [founders inc](https://f.inc/).
+previously building at [founders inc](https://f.inc/).
 
+I built an open source, local memory for agents. [ctx](https://buildctx.com).
 I've contributed to open source projects like [XMCP](https://xmcp.dev/) and [numpy.org](https://numpy.org/).  
 I've worked for Fortune 500s and small startups.  
 SWE since 2015.
