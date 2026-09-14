@@ -1,9 +1,11 @@
 ### joe lachance
 
-I'm building Developer Tools for AI @ [Satori](https://satori.sh).
-previously building at [founders inc](https://f.inc/).
+I'm building Developer Tools for AI @ Satori Engineering Co.
+previously building at [Founders Inc](https://f.inc/).
 
-I'm working on Agentic Code Review: [gx](https://gx.run).
+I'm currently building agentic code review: [gx](https://gx.run).
+GX is 55% less false positives than CodeRabbit, and 23% more precise than Greptile.
+
 I'm also building A local, offline, context for agents [tennis](https://satoricorp.github.io/tennis/), and an agent orchestrator (hypervisor, coming soon).
 
 I've contributed to open source projects like [XMCP](https://xmcp.dev/) and [numpy.org](https://numpy.org/).  
