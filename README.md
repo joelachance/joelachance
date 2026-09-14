@@ -3,7 +3,9 @@
 I'm building Developer Tools for AI. [Satori](https://satori.sh).
 previously building at [founders inc](https://f.inc/).
 
-I built an open source, local memory for agents. [ctx](https://buildctx.com).
+I'm working on Agentic Code Review: [gx](https://gx.run).
+I'm also building A local, offline, context for agents [tennis](https://satoricorp.github.io/tennis/), and an agent orchestrator (hypervisor, coming soon).
+
 I've contributed to open source projects like [XMCP](https://xmcp.dev/) and [numpy.org](https://numpy.org/).  
 I've worked for Fortune 500s and small startups.  
 SWE since 2015.
