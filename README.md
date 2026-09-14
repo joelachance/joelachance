@@ -1,6 +1,6 @@
 ### joe lachance
 
-I'm building Developer Tools for AI. [Satori](https://satori.sh).
+I'm building Developer Tools for AI @ [Satori](https://satori.sh).
 previously building at [founders inc](https://f.inc/).
 
 I'm working on Agentic Code Review: [gx](https://gx.run).
